@@ -1,3 +1,6 @@
+Information credit to redux docs:
+<https://react-redux.js.org/tutorials/quick-start>
+
 ## Dependencies
 
 ```JS
